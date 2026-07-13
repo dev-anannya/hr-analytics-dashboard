@@ -1,0 +1,50 @@
+
+{
+  "name": "HR Analytics Executive Theme",
+  "foreground": "#1E293B",
+  "background": "#F5F7FA",
+  "tableAccent": "#0F766E",
+  "dataColors": [
+    "#0F766E",
+    "#DC2626",
+    "#16A34A",
+    "#2563EB",
+    "#7C3AED",
+    "#F59E0B",
+    "#64748B",
+    "#14B8A6"
+  ],
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [{
+          "show": true,
+          "fontFamily": "Segoe UI Semibold",
+          "fontSize": 16,
+          "color": {"solid": {"color": "#1E293B"}}
+        }],
+        "background": [{
+          "show": true,
+          "color": {"solid": {"color": "#FFFFFF"}},
+          "transparency": 0
+        }],
+        "border": [{
+          "show": true,
+          "color": {"solid": {"color": "#D9DEE5"}}
+        }]
+      }
+    },
+    "card": {
+      "*": {
+        "calloutValue": [{
+          "fontSize": 30,
+          "color": {"solid": {"color": "#0F766E"}}
+        }],
+        "labels": [{
+          "fontSize": 11,
+          "color": {"solid": {"color": "#1E293B"}}
+        }]
+      }
+    }
+  }
+}
