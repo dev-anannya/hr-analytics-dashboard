@@ -62,7 +62,7 @@ This project analyzes workforce demographics, compensation, job satisfaction, pr
 - Overtime Analysis
 
 ![Satisfaction](screenshots/5job_satisfaction.png)
-(screenshots/6overtime_analysis.png)
+![Satisfaction2](screenshots/6overtime_analysis.png)
 
 ---
 
